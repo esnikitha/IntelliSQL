@@ -1,3 +1,5 @@
+IntelliSQL: Intelligent SQL Querying with LLMs Using Gemini Pro
+
 Scenario 1: Intelligent Query Assistance
 - IntelliSQL enhances the querying process by providing intelligent assistance to users. Whether they are novice or experienced SQL users, IntelliSQL guides them through crafting complex queries with ease. By understanding natural language queries, IntelliSQL suggests relevant SQL statements, offers syntax suggestions, and assists in optimizing query performance, thereby streamlining the database interaction experience.
 
